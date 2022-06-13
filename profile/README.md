@@ -8,6 +8,12 @@ We made `ExoBuilds` for a "mini-project", and we decided to go further with this
 
 🍿 _ExoBuilds_
 
-**ExoBuilds** is a project made to improve the player's efficiency on different games.
+**ExoBuilds** is a project made to improve the player's enjoyment on different games.
 
-Currently **ExoBuilds** works only for `League of Legends`, and gives information on the best runes, items for different champs.
+_Because we all know that games can be tiring to play, our goal is to make each game funnier and more exciting_
+
+Currently **ExoBuilds** works only for `League of Legends`, and gives information on the funniest runes, funniest items for different champs.
+
+🌎 _Website_
+
+***https://exobuilds.cc***
