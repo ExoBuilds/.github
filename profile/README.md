@@ -16,4 +16,4 @@ Currently **ExoBuilds** works only for `League of Legends`, and gives informatio
 
 🌎 _Website_
 
-***https://exobuilds.cc***
+***http://exobuilds.cc***
